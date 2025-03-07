@@ -36,7 +36,7 @@ export default function SearchBar({ placeholder, onSearch }: SearchBarProps) {
 
         <button
           type="submit"
-          className="p-2 bg-blue-500 hover:bg-white-600 transition-colors flex items-center justify-center"
+          className="p-2 hover:bg-white-600 transition-colors flex items-center justify-center"
         >
           <FontAwesomeIcon icon={faSearch} className="h-5 w-5" />
         </button>
