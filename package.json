@@ -1,0 +1,12 @@
+{
+  "name": "community-forums",
+  "version": "1.0.0",
+  "description": "A fullstack web application where users can sign up, create forums, and interact through comments and questions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
